@@ -1,0 +1,157 @@
+.container{
+    display: flex;
+    
+}
+header{
+    margin-left: 240px;
+}
+
+   button{
+    background-color: black;
+    
+   } 
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+/*bright orange*/
+.brightorange{
+    height:360px;
+    background-color: rgba(255, 140, 0, 0.808);
+    width:220px;
+    text-align: left;
+    
+}
+#orange{
+    position:absolute;
+    left:30px;
+   top: 40px;
+}
+
+
+#brightorange{
+    color: white;
+    text-align:inherit;
+    margin-left: 15px;
+    position: absolute;
+    top: 140px;
+}
+
+h1{
+    color:white;
+    text-align: left;
+    margin-top: 80px;
+    margin-left:20px;
+    
+    
+}
+
+
+#brightorangenext{
+text-align: inherit;
+position: absolute;
+left:20px;
+border-style:solid ;
+border-color:white;
+padding:15px;
+border-radius: 25px;
+bottom: 290px;
+color:white;
+}
+
+
+/*darkcyan*/
+
+
+
+
+.cyan{
+    height:360px;
+    background-color:darkcyan;
+    width:220px;
+    text-align: left;
+}
+
+#cyan{
+    color: white;
+    text-align: center;
+    text-align: inherit;
+    margin-left: 15px;
+    position: absolute;
+    top: 140px;
+}
+
+h2{
+    color:white;
+    text-align: inherit;
+    margin-top: 40px;
+    font-size:28px;
+    margin-left:20px;
+}
+
+#imcyan{
+    position:relative;
+    top:10px;
+    left:20px ;
+}
+#cyannext{
+position:absolute;
+text-align: inherit;
+bottom: 290px;
+left: 250px;
+border-style:solid;
+border-color: white;
+border-radius: 25px;
+padding:15px;
+color: white;
+
+
+}
+
+/*verydarkcyan*/
+.verydarkcyan{
+    height:360px;
+    background-color:rgb(1, 37, 37);
+    width:220px;
+    text-align: left;
+}
+
+#verydarkcyan{
+    color: white;
+    text-align:inherit;
+    margin-left: 20px;
+    position: absolute;
+    top: 140px;
+}
+
+h3{
+    color:white;
+    text-align:inherit;
+    margin-top: 40px;
+    font-size: 25px;
+    margin-left: 20px;
+    
+    
+}
+
+#imdarkcyan{
+    position:relative;
+    left: 20px;
+    top: 20px;
+}
+#verydarkcyannext{
+
+text-align: inherit;
+position: absolute;
+bottom: 290px;
+left:470px;
+border-style:solid;
+border-color: white;
+border-radius: 25px;
+padding:15px;
+color:white;
+
+
+}
